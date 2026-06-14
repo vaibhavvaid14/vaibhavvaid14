@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Vaibhav Vaid
 
-🎓 **3rd Year BTech CSE Student at KR Mangalam University**  
+🎓 **4th Year BTech CSE Student at KR Mangalam University**  
 📍 Gurugram, India  
 
 I am a **Computer Science Engineering student** with a strong interest in **Data Analytics and Software Development**.  
@@ -40,6 +40,7 @@ I enjoy working with data, building practical applications, and continuously lea
 - Git & GitHub
 - Git Bash
 - Linux
+- Docker
 
 ### 📚 Currently Learning
 - Advanced Data Analysis and real-world datasets
@@ -83,6 +84,7 @@ NLP · Feature Engineering · Model Training & Evaluation
 - 💼 LinkedIn: [linkedin.com/in/vaibhav-vaid](https://www.linkedin.com/in/vaibhav-vaid)
 - 📧 Email: vaibhavvaid2004@gmail.com
 - LeetCode: [leetcode.com/u/vaibhavvaid](https://leetcode.com/u/vaibhavvaid/)
+- geekforgeeks:https://www.geeksforgeeks.org/profile/vaibhavvk0lv
 
 ---
 
